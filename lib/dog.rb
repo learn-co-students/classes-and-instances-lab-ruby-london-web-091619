@@ -1,4 +1,5 @@
 class Dog
+# class body
 end
 
 fido = Dog.new
